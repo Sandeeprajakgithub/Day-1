@@ -1,0 +1,36 @@
+Day 1: Routing, Switching & Automation
+
+Today was a productive day filled with learning about routing, switching, and advancing my work in automation.
+
+Routing and Switching: I covered the basics of network interfaces, how flooding works, and learned about SVIs (Switch Virtual Interfaces), which are crucial when connecting devices across different VLANs in the same network. To switch between VLANs, we use Layer 3 switches.
+
+Why VLANs?: In large data centers, many devices are connected. VLANs help organize and speed up communication by grouping devices into smaller, more manageable networks. By default, everything falls under VLAN 1, but we can create separate VLANs to improve efficiency.
+
+Types of Routers:
+
+Wired Routers
+Wireless Routers
+Dual-Band Routers (I use this at home, operating at both 2.4GHz and 5GHz)
+Tri-Band Routers
+Core Routers
+Edge Routers
+Physical Routers
+Virtual Routers
+VPN Routers – These include IPsec and L2TP protocols to keep internet traffic secure.
+Key Takeaways:
+
+Routers use IP addresses to forward packets across different networks.
+Switches use MAC addresses, which are 48-bit unique identifiers for devices.
+On the automation front, I’m always open to collaboration or any tech ideas you’d like to discuss. In my current role, I’m working on automation, and today I made progress on my personal automation project. It’s a bot that identifies missing data and tries to fill in the gaps. If it can’t, it generates a report with the missing entries. I’m in the implementation phase now and using Kaggle datasets for testing.
+
+Additionally, I solved two HashSet questions on LeetCode to keep sharpening my logical thinking.
+
+Since my handwriting isn’t the best (I have to match the instructor’s speed), I hope you’ll understand. I’ll try to upload a few more resources to make up for it!
+
+It’s going to be a very interesting journey—this is just Day 1, and no one knows what Day 365 will look like. But one thing’s for sure: Consistency breaks everything, and I’m committed to staying consistent throughout.
+
+What type of router do you use at home? Let me know in the comments!
+
+Looking forward to learning more tomorrow.
+
+#Networking #Routing #Switching #VLAN #LeetCode #Automation #Kaggle #Day1 #BotDevelopment #DataDriven #ConsistencyIsKey
